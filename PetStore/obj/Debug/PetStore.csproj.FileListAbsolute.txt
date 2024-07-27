@@ -1,0 +1,17 @@
+E:\Project\Pet Store\PetStore\bin\Debug\PetStore.exe.config
+E:\Project\Pet Store\PetStore\bin\Debug\PetStore.exe
+E:\Project\Pet Store\PetStore\bin\Debug\PetStore.pdb
+E:\Project\Pet Store\PetStore\bin\Debug\Guna.UI2.dll
+E:\Project\Pet Store\PetStore\obj\Debug\PetStore.csproj.AssemblyReference.cache
+E:\Project\Pet Store\PetStore\obj\Debug\PetStore.Properties.Resources.resources
+E:\Project\Pet Store\PetStore\obj\Debug\PetStore.csproj.GenerateResource.cache
+E:\Project\Pet Store\PetStore\obj\Debug\PetStore.csproj.CoreCompileInputs.cache
+E:\Project\Pet Store\PetStore\obj\Debug\PetStore.csproj.Up2Date
+E:\Project\Pet Store\PetStore\obj\Debug\PetStore.exe
+E:\Project\Pet Store\PetStore\obj\Debug\PetStore.pdb
+E:\Project\Pet Store\PetStore\obj\Debug\PetStore.Login.resources
+E:\Project\Pet Store\PetStore\obj\Debug\PetStore.Splash.resources
+E:\Project\Pet Store\PetStore\obj\Debug\PetStore.Home.resources
+E:\Project\Pet Store\PetStore\obj\Debug\PetStore.Employees.resources
+E:\Project\Pet Store\PetStore\obj\Debug\PetStore.Customers.resources
+E:\Project\Pet Store\PetStore\obj\Debug\PetStore.Products.resources
